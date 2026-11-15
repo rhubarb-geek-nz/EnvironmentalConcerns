@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EnvironmentalConcerns/EnvironmentalConcerns.csproj" />
+  <Project Path="TestPowerShellCore/TestPowerShellCore.csproj" />
+  <Project Path="TestPowerShellDesktop/TestPowerShellDesktop.csproj" Id="cebfb627-a114-4b87-91bb-7b15d86be3fb" />
+</Solution>
